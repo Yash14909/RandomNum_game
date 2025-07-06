@@ -2,7 +2,7 @@
 
 
 
-This is a simple Python-based number guessing game. The program randomly selects a number between 1 and 100, and the user has to guess it. The program provides hints whether to guess higher or lower.
+This is a simple Python and Cpp-based number guessing game. The program randomly selects a number between 1 and 100, and the user has to guess it. The program provides hints whether to guess higher or lower.
 
 
 
@@ -30,9 +30,10 @@ This is a simple Python-based number guessing game. The program randomly selects
 
 
 
-\## Example Output
+Run using cmd by:
+1.) gpp numguesn.cpp -o numguesn
 
-
+2.) numguessn
 
 Enjoy coding and share with friends!
 
