@@ -30,7 +30,8 @@ This is a simple Python and Cpp-based number guessing game. The program randomly
 
 
 
-Run using cmd by:
+## Run using cmd by:
+
 1.) gpp numguesn.cpp -o numguesn
 
 2.) numguessn
